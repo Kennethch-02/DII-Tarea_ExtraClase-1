@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.cpp" "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/C___Pruebas.dir/Collector.cpp.obj"
-  "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Simple_Linked_List.cpp" "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj"
-  "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/main.cpp" "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/C___Pruebas.dir/main.cpp.obj"
-  "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/node.cpp" "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/C___Pruebas.dir/node.cpp.obj"
+  "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Collector.cpp" "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/CMakeFiles/C___Pruebas.dir/Collector.cpp.obj"
+  "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Simple_Linked_List.cpp" "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj"
+  "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/main.cpp" "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/CMakeFiles/C___Pruebas.dir/main.cpp.obj"
+  "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/node.cpp" "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/CMakeFiles/C___Pruebas.dir/node.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

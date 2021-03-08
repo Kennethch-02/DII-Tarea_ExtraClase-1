@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Admin/Desktop/KENNETH/C++ Pruebas
+# Install script for directory: C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

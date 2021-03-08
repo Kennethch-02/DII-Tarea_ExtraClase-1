@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C___Pruebas">
-				<Option output="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/C___Pruebas.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug"/>
+				<Option output="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/C___Pruebas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Pruebas"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Pruebas"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C___Pruebas/fast">
-				<Option output="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/C___Pruebas.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug"/>
+				<Option output="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/C___Pruebas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,55 +53,55 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Pruebas/fast"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Pruebas/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.cpp">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Collector.cpp">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.h">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Collector.h">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Simple_Linked_List.cpp">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Simple_Linked_List.cpp">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Simple_Linked_List.h">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/Simple_Linked_List.h">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/main.cpp">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/main.cpp">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/node.cpp">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/node.cpp">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/node.h">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/node.h">
 			<Option target="C___Pruebas"/>
 		</Unit>
-		<Unit filename="C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/CMakeLists.txt">
+		<Unit filename="C:/Users/Admin/Desktop/Kenneth OneDrive/OneDrive - Estudiantes ITCR/TEC/Semestre 1 2021/Datos II/Tarrea ExtraClase #1/DII-Tarea_ExtraClase-1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

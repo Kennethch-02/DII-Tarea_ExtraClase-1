@@ -62,10 +62,10 @@ RM = "C:\Users\Admin\Desktop\KENNETH\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas"
+CMAKE_SOURCE_DIR = "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C___Pruebas.dir/depend.make
@@ -78,55 +78,55 @@ include CMakeFiles/C___Pruebas.dir/flags.make
 
 CMakeFiles/C___Pruebas.dir/main.cpp.obj: CMakeFiles/C___Pruebas.dir/flags.make
 CMakeFiles/C___Pruebas.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Pruebas.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\main.cpp.obj -c "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Pruebas.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\main.cpp.obj -c "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\main.cpp"
 
 CMakeFiles/C___Pruebas.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Pruebas.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\main.cpp" > CMakeFiles\C___Pruebas.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\main.cpp" > CMakeFiles\C___Pruebas.dir\main.cpp.i
 
 CMakeFiles/C___Pruebas.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Pruebas.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\main.cpp" -o CMakeFiles\C___Pruebas.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\main.cpp" -o CMakeFiles\C___Pruebas.dir\main.cpp.s
 
 CMakeFiles/C___Pruebas.dir/node.cpp.obj: CMakeFiles/C___Pruebas.dir/flags.make
 CMakeFiles/C___Pruebas.dir/node.cpp.obj: ../node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Pruebas.dir/node.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\node.cpp.obj -c "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\node.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Pruebas.dir/node.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\node.cpp.obj -c "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\node.cpp"
 
 CMakeFiles/C___Pruebas.dir/node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Pruebas.dir/node.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\node.cpp" > CMakeFiles\C___Pruebas.dir\node.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\node.cpp" > CMakeFiles\C___Pruebas.dir\node.cpp.i
 
 CMakeFiles/C___Pruebas.dir/node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Pruebas.dir/node.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\node.cpp" -o CMakeFiles\C___Pruebas.dir\node.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\node.cpp" -o CMakeFiles\C___Pruebas.dir\node.cpp.s
 
 CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj: CMakeFiles/C___Pruebas.dir/flags.make
 CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj: ../Simple_Linked_List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.obj -c "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Simple_Linked_List.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.obj -c "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Simple_Linked_List.cpp"
 
 CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Simple_Linked_List.cpp" > CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Simple_Linked_List.cpp" > CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.i
 
 CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Pruebas.dir/Simple_Linked_List.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Simple_Linked_List.cpp" -o CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Simple_Linked_List.cpp" -o CMakeFiles\C___Pruebas.dir\Simple_Linked_List.cpp.s
 
 CMakeFiles/C___Pruebas.dir/Collector.cpp.obj: CMakeFiles/C___Pruebas.dir/flags.make
 CMakeFiles/C___Pruebas.dir/Collector.cpp.obj: ../Collector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C___Pruebas.dir/Collector.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\Collector.cpp.obj -c "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Collector.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C___Pruebas.dir/Collector.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C___Pruebas.dir\Collector.cpp.obj -c "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Collector.cpp"
 
 CMakeFiles/C___Pruebas.dir/Collector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Pruebas.dir/Collector.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Collector.cpp" > CMakeFiles\C___Pruebas.dir\Collector.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Collector.cpp" > CMakeFiles\C___Pruebas.dir\Collector.cpp.i
 
 CMakeFiles/C___Pruebas.dir/Collector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Pruebas.dir/Collector.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\Collector.cpp" -o CMakeFiles\C___Pruebas.dir\Collector.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\Collector.cpp" -o CMakeFiles\C___Pruebas.dir\Collector.cpp.s
 
 # Object files for target C___Pruebas
 C___Pruebas_OBJECTS = \
@@ -146,7 +146,7 @@ C___Pruebas.exe: CMakeFiles/C___Pruebas.dir/build.make
 C___Pruebas.exe: CMakeFiles/C___Pruebas.dir/linklibs.rsp
 C___Pruebas.exe: CMakeFiles/C___Pruebas.dir/objects1.rsp
 C___Pruebas.exe: CMakeFiles/C___Pruebas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C___Pruebas.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C___Pruebas.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C___Pruebas.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -159,6 +159,6 @@ CMakeFiles/C___Pruebas.dir/clean:
 .PHONY : CMakeFiles/C___Pruebas.dir/clean
 
 CMakeFiles/C___Pruebas.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas" "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas" "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug" "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug" "C:\Users\Admin\Desktop\KENNETH\C++ Pruebas\cmake-build-debug\CMakeFiles\C___Pruebas.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1" "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1" "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug" "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug" "C:\Users\Admin\Desktop\Kenneth OneDrive\OneDrive - Estudiantes ITCR\TEC\Semestre 1 2021\Datos II\Tarrea ExtraClase #1\DII-Tarea_ExtraClase-1\cmake-build-debug\CMakeFiles\C___Pruebas.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/C___Pruebas.dir/depend
 

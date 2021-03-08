@@ -2,6 +2,10 @@
 #include <mmcobj.h>
 #include "Simple_Linked_List.h"
 using namespace std;
+//Kenneth Castillo Herrera
+//2019062984
+//Algoritmos y Estrucutras de Datos II
+//Tarea Extra Clase I
 /**
  * @fn main
  * @brief Funcion main que se encarga de instanciar y
