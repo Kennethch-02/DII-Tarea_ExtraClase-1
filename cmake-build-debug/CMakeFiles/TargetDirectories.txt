@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/C___Pruebas.dir
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

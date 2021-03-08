@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.cpp
+Collector.h
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.h
+
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/Collector.h
+list
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/list
+node.h
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/node.h
+
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/node.h
+iostream
+C:/Users/Admin/Desktop/KENNETH/C++ Pruebas/iostream
+
